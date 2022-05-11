@@ -1,3 +1,5 @@
+#!/user/bash
+
 temp_b="$(cat temps/region_B)”   #There is only one number in the file
 temp_c="$(cat temps/region_C)"
 
